@@ -2,8 +2,9 @@
 Use custom icon sets for Clementine music player (works for Windows, Mac OSX, Linux & open BSD)
   
   FaenzaDark folder    : contains icons for dark themes
-  
+  ![screen](FaenzaDark/FaenzaDark.png)
   FaenzaLight folder   : contains icons for light themes
+  ![screen](FaenzaLight/FaenzaLight.png)
 # How To
 Get custom icons (if you haven't already):
 
