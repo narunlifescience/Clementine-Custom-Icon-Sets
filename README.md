@@ -15,6 +15,8 @@ Linux :
   - Create a folder “customiconset” inside ~/.config/Clementine/
   - copy FaenzaDark or FaenzaLight folder contents to ~/.config/Clementine/customiconset
 
+![image](https://user-images.githubusercontent.com/11949260/120517987-b1f22000-c3ee-11eb-90a4-1bf4a50fd817.png)
+
 Mac OS X :
 
   - Create a folder “customiconset” inside ~/Library/Application Support/Clementine/
